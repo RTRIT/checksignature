@@ -1,1 +1,7 @@
 streamlit
+pillow
+opencv-python
+ultralytics
+torch
+torch-vision
+numpy==1.26.4
